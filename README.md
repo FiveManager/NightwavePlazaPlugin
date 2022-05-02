@@ -1,6 +1,6 @@
 ## Info
 
-Sorry if this plugin is bad I have no idea how to use html. This is just https://plaza.one/
+Sorry if this plugin is bad I have no idea how to use GitHub and html. This is just https://plaza.one/
 
 ## Usage
 
