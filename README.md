@@ -1,4 +1,6 @@
-Sorry if this plugin is bad I have no idea how to use html.
+## Info
+
+Sorry if this plugin is bad I have no idea how to use html. This is just https://plaza.one/
 
 ## Usage
 
